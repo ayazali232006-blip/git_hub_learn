@@ -1,2 +1,4 @@
-#this is the last
-print("Hello")
+import streamlit as st
+
+st.title("My First Streamlit App")
+st.write("Hello")
